@@ -1,0 +1,3 @@
+Fix the regression introduced in #1214 that caused tilde (~) and grave
+(`) to stop being sendable from at least a MacOS Barrier Server (and
+probably others).  Fixes Issues #1541 and #1407
